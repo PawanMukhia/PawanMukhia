@@ -5,7 +5,12 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pawanmukhia" alt="pawanmukhia" /></a> </p>
 
-<h3 align="left" src="https://www.linkedin.com/in/pawan-mukhia/" alt="pawanmukhia">Connect with me: </h3>
+<h3 align="left">Connect with me: </h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/pawan-mukhia/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 <p align="left">
 </p>
 
